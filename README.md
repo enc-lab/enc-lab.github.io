@@ -6,27 +6,14 @@ to the Energy and Clouds modeling Lab website. A better description is coming so
 
 * Coming soon
 
-## Projects
+## Projects and team
 
-* The effects of seabreeze advection in the coastal Stratocumulus breakup process
-* The dynamical response of Stratocumulus cloud layers to changes in surface fluxes
-* Design and construction of a Li-Br absorption solar cooling device for teaching experiences
-* Improving solar concentrators and absorber tube performance in solar thermal devices
-* Solar variability, the role of clouds, and its effects on solar plants
-* Energy efficiency on patrimonial buildings
-
-## Current Team
-
-* [Mónica](mzamora.github.io) Zamora Zapata, Assistant Prof. @ DIMEC-UChile
-* Juan Manuel González, MSc-MechEng student
-* Brian Bosch, MechEng student
-* Sebastián Sepúlveda, MechEng student
-* Macarena Muñoz, MechEng student
-* Emilio Castro, MechEng student
-* Tamara Riquelme, MechEng student
-* Lisa Peña, MechEng student
-* Benjamín Canales, MechEng student
-* Rodrigo Contreras, MechEng student
+* The effects of seabreeze advection in the coastal Stratocumulus breakup process - Mónica Zamora Z.
+* The dynamical response of Stratocumulus cloud layers to changes in surface fluxes - Mónica Zamora Z., Thijs Heus
+* Design and construction of a Li-Br absorption solar cooling device for teaching experiences - Kim Hauser, Brian Bosch, Sebastián Sepúlveda, Juan Manuel González
+* Improving solar concentrators and absorber tube performance in solar thermal devices - Rodrigo Contreras, Benjamín Canales, Lisa Peña
+* Solar variability, the role of clouds, and its effects on solar plants - Mónica Zamora Z., Emilio Castro, Tamara Riquelme
+* Energy efficiency on patrimonial buildings - Macarena Muñoz, Reynaldo Cabezas
 
 ## Collaborators
 
