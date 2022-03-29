@@ -1,26 +1,32 @@
 ## Welcome!
 
-to the Energy and Clouds modeling Lab website. A better description is coming soon...
+Welcome to the Energy and Clouds modeling Lab website, at the [DIMEC](http://www.dimec.cl) - [FCFM](https://ingenieria.uchile.cl/) - [Universidad de Chile](http://www.uchile.cl). Our work combines the fields of renewable energy and cloud physics, and is motivated by the current need for decarbonization in the context of climate and biodiversity crisis. Renewable energy is inherently variable, and for solar energy the short term variability comes primarily from passing clouds, thus the need to better understand their dynamics using atmospheric CFD and other techniques. We also work quantifying the effects of resource variability on conversion devices, characterizing and improving solar devices, analyzing energy efficiency measures on patrimonial buildings, and we are interested in other energy-water-food related problems, specially from a human scale development perspective.
 
-## News
+## Projects
 
-* Coming soon
+* [The effects of seabreeze advection in the coastal Stratocumulus breakup process](sc_seabreeze.md)
+* [The dynamical response of Stratocumulus cloud layers to changes in surface fluxes](sc_sfluxes.md)
+* [Design and construction of a Li-Br absorption solar cooling device for teaching experiences](solarcooling.md)
+* [Improving solar concentrators and absorber tube performance in solar thermal devices](solarthermal.md)
+* [Solar variability and forecasting, the role of clouds, and its effects on solar plants](solarvar.md)
+* [Energy efficiency and retrofitting on patrimonial buildings](retrofitting.md)
 
-## Projects and team
-
-* The effects of seabreeze advection in the coastal Stratocumulus breakup process - Mónica Zamora Z.
-* The dynamical response of Stratocumulus cloud layers to changes in surface fluxes - Mónica Zamora Z., Thijs Heus
-* Design and construction of a Li-Br absorption solar cooling device for teaching experiences - Kim Hauser, Brian Bosch, Sebastián Sepúlveda, Juan Manuel González
-* Improving solar concentrators and absorber tube performance in solar thermal devices - Rodrigo Contreras, Benjamín Canales, Lisa Peña
-* Solar variability, the role of clouds, and its effects on solar plants - Mónica Zamora Z., Emilio Castro, Tamara Riquelme
-* Energy efficiency on patrimonial buildings - Macarena Muñoz, Reynaldo Cabezas
-
-## Collaborators
-
-* Kim Hauser, DOH-MOP / Universidad de Chile
-* Francisco Fuentes, Fraunhofer Chile
-* Felipe Godoy, Fraunhofer Chile
-* Reynaldo Cabezas, Universidad de Chile
-* Thijs Heus, Cleveland State University, OH, USA
-* Elynn Wu, Allen Institute for Artificial Intelligence, WA, USA
-* Jan Kleissl, University of California San Diego, CA, USA
+## People
+* **Faculty** 
+  * [Mónica Zamora Z.](mzamora.github.io)
+* **MSc students**
+  * Juan Manuel González
+* **MechEng students**
+  * Rodrigo Contreras
+  * Benjamín Canales
+  * Lisa Peña
+  * Tamara Riquelme
+  * Emilio Castro
+  * Macarena Muñoz
+  * Brian Bosch
+  * Sebastián Sepúlveda
+* **Collaborators**
+  * Kim Hauser, MOP & U.Chile
+  * Elynn Wu, AI2
+  * Thijs Heus, CSU Ohio
+  * Jan Kleissl, UC San Diego
