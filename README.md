@@ -10,23 +10,3 @@ Welcome to the Energy and Clouds modeling Lab website, at the [DIMEC](http://www
 * [Improving solar concentrators and absorber tube performance in solar thermal devices](solarthermal.md)
 * [Solar variability and forecasting, the role of clouds, and its effects on solar plants](solarvar.md)
 * [Energy efficiency and retrofitting on patrimonial buildings](retrofitting.md)
-
-## People
-* **Faculty** 
-  * [Mónica Zamora Z.](mzamora.github.io)
-* **MSc students**
-  * Juan Manuel González
-* **MechEng students**
-  * Rodrigo Contreras
-  * Benjamín Canales
-  * Lisa Peña
-  * Tamara Riquelme
-  * Emilio Castro
-  * Macarena Muñoz
-  * Brian Bosch
-  * Sebastián Sepúlveda
-* **Collaborators**
-  * Kim Hauser, MOP & U.Chile
-  * Elynn Wu, AI2
-  * Thijs Heus, CSU Ohio
-  * Jan Kleissl, UC San Diego
