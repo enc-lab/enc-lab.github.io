@@ -16,4 +16,5 @@ resolutions can not capture small variability and overestimate the mean clear sk
 high clouds do not change as much. The effect is also palpable when measuring ramps: the percentile 95 of the ramps
 obtained with 1 minute data is 19 times greater compared to hourly data. This ratio varies per cloud type, with the
 strongest differences occurring for mid clouds, having ramps that are 73 times stronger.
-[Check out our paper on this topic (under review)](https://mzamora.github.io/preprints/subhourly_preprint.pdf) Mónica Zamora Z., Jan Kleissl, JRSE, 2022.
+
+[Check out our preprint (under review)](https://mzamora.github.io/preprints/subhourly_preprint.pdf) Mónica Zamora Z., Jan Kleissl, JRSE, 2022.
